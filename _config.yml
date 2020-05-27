@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: flyshare@126.com
 description: "毁灭不掉我的，将会使我更加强大"
 keyword: "flyshare"
-url: "https://meiguoofa.github.io/"          # your host, for absolute URL
+url: "https://meiguoofa.github.io/flyshare"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/meiguoofa/flyshare.git" # you code repository
 
