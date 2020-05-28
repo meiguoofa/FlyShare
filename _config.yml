@@ -6,7 +6,7 @@ email: flyshare@126.com
 description: "xxx"
 keyword: "flyshare"
 url: "https://meiguoofa.github.io/"          # your host, for absolute URL
-baseurl: "/flyshare"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/meiguoofa/flyshare.git" # you code repository
 
 # Sidebar settings
