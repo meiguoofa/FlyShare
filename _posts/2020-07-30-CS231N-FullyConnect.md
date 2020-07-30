@@ -4,7 +4,7 @@ title:      CS231N
 subtitle:   Fully_Connect_Layer
 date:       2020-07-30
 author:     flyshare
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
     - cs231n
