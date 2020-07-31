@@ -2,7 +2,8 @@
 layout: page
 description: "Thinking will not overcome fear but action will."
 ---
-
+<p>https://flyshare-community-header.oss-cn-hangzhou.aliyuncs.com/down%20by%20the%20sally%20gardens.mp3</p>
+    
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -18,8 +19,7 @@ description: "Thinking will not overcome fear but action will."
             {{ post.content | strip_html | truncate:200 }}
         </div>
     </a>
-	<p>https://flyshare-community-header.oss-cn-hangzhou.aliyuncs.com/down%20by%20the%20sally%20gardens.mp3</p>
-    <p class="post-meta">
+	<p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
