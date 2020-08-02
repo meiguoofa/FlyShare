@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      CS231N
-subtitle:   Fully_Connect_Layer
-date:       2020-07-30
+subtitle:   BatchNormalization
+date:       2020-08-02
 author:     flyshare
 header-img: img/tag-bg.jpg
 catalog: true
