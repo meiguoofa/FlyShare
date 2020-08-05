@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      CS231N
-subtitle:   Pooling
+title:      Python学习-DAY14
+subtitle:   Task14-datetime
 date:       2020-08-05
 author:     flyshare
 header-img: img/post-bg-hacker.jpg
