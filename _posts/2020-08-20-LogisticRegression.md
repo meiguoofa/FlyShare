@@ -52,7 +52,7 @@ tags:
 事件的几率odds：事件发生与事件不发生的概率之比为
 
 <p align='center'>
-      <img src="/img/LR6.png">
+      <img src="/img/LE6.png">
 </p>
 
 称为事件的发生比(the odds of experiencing an event), 
@@ -113,6 +113,16 @@ logistic分类器是由一组权值系数组成的，最关键的问题就是如
       <img src="/img/LR13.png">
 </p>
 
+
+多项logistic回归
+
+设Y的取值集合为
+<p align='center'>
+      <img src="/img/LR14.png">
+</p>
+
+
+多项logistic回归模型
 
 
 
