@@ -125,5 +125,11 @@ logistic分类器是由一组权值系数组成的，最关键的问题就是如
 多项logistic回归模型
 
 
+<p align='center'>
+      <img src="/img/LR15.png">
+</p>
 
+<p align='center'>
+      <img src="/img/LR16.png">
+</p>
 
