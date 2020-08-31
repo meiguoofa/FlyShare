@@ -10,7 +10,7 @@ tags:
     - trick
 ---
 
-
+```
 ConvTransposed2d()其实是Conv2d()的逆过程，其参数是一样的
 
 　　Conv2d():
@@ -26,6 +26,9 @@ ConvTransposed2d()其实是Conv2d()的逆过程，其参数是一样的
 　　ConvTransposed2d():
 
 　　　　output = (input-1) * stride - 2*Padding + kernelSize
+
+```
+
 
 ```python
 
